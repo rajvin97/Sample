@@ -1,6 +1,11 @@
 package org.comp;
 
 public class Computer {
+	public void method17() {
+		System.out.println(12);
+
+	}
+	
 	public void computerModel() {
 		System.out.println("Computer model is Laptop Model");
 	}
